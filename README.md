@@ -1,4 +1,4 @@
-# 🎟️ **TICKETAZO - Automatización de Pruebas con Cypress - Grupo 3**
+# 🎟️ **TICKETAZO - Grupo 3**
 
 ### ⚙️ 1. Scripts de instalación y ejecución
 Para instalar las dependencias y ejecutar los tests automáticos:
@@ -37,4 +37,4 @@ Para instalar las dependencias y ejecutar los tests automáticos:
 
 ### 🌐 4. Repositorio público
   Este proyecto está disponible en GitHub:
-   👉 Ticketazo Grupo 3
+   [**Tablero de Trello**](https://trello.com/b/Lwu6fraM/challenge-tiketazo-g3](https://github.com/julian-benito/TicketazoGrupo3)
