@@ -37,4 +37,4 @@ Para instalar las dependencias y ejecutar los tests automáticos:
 
 ### 🌐 4. Repositorio público
   Este proyecto está disponible en GitHub:
-   [**Tablero de Trello**](https://trello.com/b/Lwu6fraM/challenge-tiketazo-g3](https://github.com/julian-benito/TicketazoGrupo3)
+   👉 [**Repositorio GitHub**](https://github.com/julian-benito/TicketazoGrupo3)
