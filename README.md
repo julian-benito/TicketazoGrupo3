@@ -1,31 +1,30 @@
-🎟️ Ticketazo - Automatización de Pruebas con Cypress - Grupo 3
+# 🎟️ **TICKETAZO - Automatización de Pruebas con Cypress - Grupo 3**
 
 ⚙️ 1. Scripts de instalación y ejecución
 Para instalar las dependencias y ejecutar los tests automáticos:
 
-  bash
-  # 📥 Clonar el repositorio
+  ## 📥 Clonar el repositorio
   git clone https://github.com/julian-benito/TicketazoGrupo3.git
 
-  # 📂 Ingresar a la carpeta del proyecto
+  ## 📂 Ingresar a la carpeta del proyecto
   cd TicketazoGrupo3
 
-  # 📦 Instalar dependencias
+  ## 📦 Instalar dependencias
   npm install
 
-  # ▶️ Ejecutar todos los tests en modo headless
+  ## ▶️ Ejecutar todos los tests en modo headless
   npm run test
 
-  # (Opcional) Abrir Cypress en modo interactivo
+  ## (Opcional) Abrir Cypress en modo interactivo
   npx cypress open
 
   ▶️ Ejecución por carpetas específicas
   Puedes ejecutar únicamente los tests de cada flujo:
 
-  # 🧑‍💼 Ejecutar solo los tests del flujo Organizador
+  ## 🧑‍💼 Ejecutar solo los tests del flujo Organizador
   npx cypress run --spec "cypress/e2e/FlujoOrganizador/**/*.cy.js"
 
-  # 🛒 Ejecutar solo los tests del flujo Comprador
+  ## 🛒 Ejecutar solo los tests del flujo Comprador
   npx cypress run --spec "cypress/e2e/FlujoComprador/**/*.cy.js"
   
 📊 2. Plan de pruebas
