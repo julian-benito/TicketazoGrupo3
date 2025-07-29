@@ -1,5 +1,5 @@
 # 🎟️ **TICKETAZO - Grupo 3**
-###Integrantes: Julian Benito,
+### Integrantes: Julian Benito,
              Paola Cornejo,
              Yuli Riveros Ortiz,
              Pérez Olmos.
