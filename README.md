@@ -33,8 +33,8 @@ Para instalar las dependencias y ejecutar los tests automáticos:
 
 ### 🗂️ 3. Tablero Trello
   Los defectos encontrados fueron reportados y gestionados en Trello, asi como la asignacion de las tareas y evolución de las mismas:
-  👉 Tablero de Trello
+   👉 [**Tablero de Trello**](https://trello.com/b/Lwu6fraM/challenge-tiketazo-g3)
 
 ### 🌐 4. Repositorio público
   Este proyecto está disponible en GitHub:
-  👉 Ticketazo Grupo 3
+   👉 Ticketazo Grupo 3
