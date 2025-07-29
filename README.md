@@ -1,4 +1,8 @@
 # 🎟️ **TICKETAZO - Grupo 3**
+Integrantes: Julian Benito
+             Paola Cornejo
+             Yuli Riveros Ortiz
+             Pérez Olmos
 
 ### ⚙️ 1. Scripts de instalación y ejecución
 Para instalar las dependencias y ejecutar los tests automáticos:
