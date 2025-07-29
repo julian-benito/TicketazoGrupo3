@@ -29,7 +29,7 @@ Para instalar las dependencias y ejecutar los tests automáticos:
   
 ### 📊 2. Plan de pruebas
   El plan de pruebas completo se encuentra en Google Sheets:
-  👉 [**Plan de pruebas**]([https://docs.google.com/spreadsheets/d/19aRmXKVTc4-hYWDeYuhyR_EGYGNhgLwekvPiVuJJUso/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/19aRmXKVTc4-hYWDeYuhyR_EGYGNhgLwekvPiVuJJUso/edit?gid=0#gid=0))
+   👉 [**Plan de pruebas**](https://docs.google.com/spreadsheets/d/19aRmXKVTc4-hYWDeYuhyR_EGYGNhgLwekvPiVuJJUso/edit?gid=0#gid=0)
 
 ### 🗂️ 3. Tablero Trello
   Los defectos encontrados fueron reportados y gestionados en Trello, asi como la asignacion de las tareas y evolución de las mismas:
