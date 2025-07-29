@@ -1,6 +1,6 @@
 # 🎟️ **TICKETAZO - Automatización de Pruebas con Cypress - Grupo 3**
 
-#⚙️ 1. Scripts de instalación y ejecución
+### ⚙️ 1. Scripts de instalación y ejecución
 Para instalar las dependencias y ejecutar los tests automáticos:
 
   #### 📥 Clonar el repositorio
@@ -27,14 +27,14 @@ Para instalar las dependencias y ejecutar los tests automáticos:
   #### 🛒 Ejecutar solo los tests del flujo Comprador
   npx cypress run --spec "cypress/e2e/FlujoComprador/**/*.cy.js"
   
-#📊 2. Plan de pruebas
+### 📊 2. Plan de pruebas
   El plan de pruebas completo se encuentra en Google Sheets:
   👉 Plan de pruebas
 
-#🗂️ 3. Tablero Trello
+### 🗂️ 3. Tablero Trello
   Los defectos encontrados fueron reportados y gestionados en Trello, asi como la asignacion de las tareas y evolución de las mismas:
   👉 Tablero de Trello
 
-🌐 4. Repositorio público
+### 🌐 4. Repositorio público
   Este proyecto está disponible en GitHub:
   👉 Ticketazo Grupo 3
