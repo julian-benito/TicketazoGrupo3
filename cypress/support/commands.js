@@ -35,7 +35,7 @@ Cypress.Commands.add('compra1Boleta', () => {
     // Original
     //cy.get('[style="left: 16px; top: 208.414px; width: 106.43px; height: 184.852px; position: absolute; background-color: rgb(255, 245, 77); transition: background-color 0.3s;"]').click()
     cy.get('[style="left: 417.633px; top: 205.053px; width: 166.367px; height: 189.893px; position: absolute; background-color: rgb(109, 110, 178); transition: background-color 0.3s;"]').click()
-    cy.get('[title="Fila 18, Columna 1"]').click()
+    cy.get('[title="Fila 11, Columna 19"]').click({ force: true })
     cy.get('.w-full > span').click()
     cy.get('.mt-6 > .z-0').click() // Mis Entradas
     cy.reload()
@@ -43,9 +43,9 @@ Cypress.Commands.add('compra1Boleta', () => {
 
 Cypress.Commands.add('compra2Boletas', () => {
     cy.get('[style="left: 417.633px; top: 205.053px; width: 166.367px; height: 189.893px; position: absolute; background-color: rgb(109, 110, 178); transition: background-color 0.3s;"]').click()
-    cy.get('[title="Fila 18, Columna 2"]').click()
+    cy.get('[title="Fila 11, Columna 2"]').click()
     cy.wait(1000)
-    cy.get('[title="Fila 18, Columna 3"]').click()
+    cy.get('[title="Fila 11, Columna 3"]').click()
     cy.wait(1000)
     cy.get('.w-full > span').click()
     cy.get('.mt-6 > .z-0').click() // Mis Entradas
@@ -55,11 +55,11 @@ Cypress.Commands.add('compra2Boletas', () => {
 Cypress.Commands.add('compra3Boletas', () => {
     cy.get('[style="left: 417.633px; top: 205.053px; width: 166.367px; height: 189.893px; position: absolute; background-color: rgb(109, 110, 178); transition: background-color 0.3s;"]').click()
     cy.wait(1000)
-    cy.get('[title="Fila 18, Columna 4"]').click()
+    cy.get('[title="Fila 16, Columna 4"]').click()
     cy.wait(1000)
-    cy.get('[title="Fila 18, Columna 5"]').click() 
+    cy.get('[title="Fila 16, Columna 5"]').click() 
     cy.wait(1000)
-    cy.get('[title="Fila 18, Columna 6"]').click()
+    cy.get('[title="Fila 16, Columna 6"]').click()
     cy.wait(1000)
     cy.get('.w-full > span').click()
     cy.get('.mt-6 > .z-0').click() // Mis Entradas
@@ -69,13 +69,13 @@ Cypress.Commands.add('compra3Boletas', () => {
 Cypress.Commands.add('compra4Boletas', () => {
     cy.get('[style="left: 417.633px; top: 205.053px; width: 166.367px; height: 189.893px; position: absolute; background-color: rgb(109, 110, 178); transition: background-color 0.3s;"]').click()
     cy.wait(1000)
-    cy.get('[title="Fila 18, Columna 7"]').click()
+    cy.get('[title="Fila 16, Columna 7"]').click()
     cy.wait(1000)
-    cy.get('[title="Fila 18, Columna 8"]').click()
+    cy.get('[title="Fila 16, Columna 8"]').click()
     cy.wait(1000)
-    cy.get('[title="Fila 18, Columna 9"]').click()
+    cy.get('[title="Fila 16, Columna 9"]').click()
     cy.wait(1000)
-    cy.get('[title="Fila 18, Columna 10"]').click()
+    cy.get('[title="Fila 16, Columna 10"]').click()
     cy.wait(1000)
     cy.get('.w-full > span').click()
     cy.get('.mt-6 > .z-0').click() // Mis Entradas
