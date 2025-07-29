@@ -3,7 +3,7 @@
 ### ⚙️ 1. Scripts de instalación y ejecución
 Para instalar las dependencias y ejecutar los tests automáticos:
 
-  #### 📥 Clonar el repositorio
+    #### 📥 Clonar el repositorio
   git clone https://github.com/julian-benito/TicketazoGrupo3.git
 
   #### 📂 Ingresar a la carpeta del proyecto
